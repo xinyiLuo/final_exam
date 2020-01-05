@@ -1,0 +1,327 @@
+country,2015,2016,2017,contribute
+Switzerland,7.587,7.509,7.494,scroe
+Iceland,7.561,7.501,7.504,scroe
+Denmark,7.527,7.526,7.522,scroe
+Norway,7.522,7.498,7.537,scroe
+Canada,7.427,7.404,7.316,scroe
+Finland,7.406,7.413,7.469,scroe
+Netherlands,7.378,7.339,7.377,scroe
+Sweden,7.364,7.291,7.284,scroe
+New Zealand,7.286,7.334,7.314,scroe
+Australia,7.284,7.313,7.284,scroe
+Israel,7.278,7.267,7.213,scroe
+Costa Rica,7.226,7.087,7.079,scroe
+Austria,7.2,7.119,7.006,scroe
+Mexico,7.187,6.778,6.578,scroe
+United States,7.119,7.104,6.993,scroe
+Brazil,6.983,6.952,6.635,scroe
+Luxembourg,6.946,6.871,6.863,scroe
+Ireland,6.94,6.907,6.977,scroe
+Belgium,6.937,6.929,6.891,scroe
+United Arab Emirates,6.901,6.573,6.648,scroe
+United Kingdom,6.867,6.725,6.714,scroe
+Oman,6.853,nan,nan,scroe
+Venezuela,6.81,6.084,5.25,scroe
+Singapore,6.798,6.739,6.572,scroe
+Panama,6.786,6.701,6.452,scroe
+Germany,6.75,6.994,6.951,scroe
+Chile,6.67,6.705,6.652,scroe
+Qatar,6.611,6.375,6.375,scroe
+France,6.575,6.478,6.442,scroe
+Argentina,6.574,6.65,6.599,scroe
+Czech Republic,6.505,6.596,6.609,scroe
+Uruguay,6.485,6.545,6.454,scroe
+Colombia,6.477,6.481,6.357,scroe
+Thailand,6.455,6.474,6.424,scroe
+Saudi Arabia,6.411,6.379,6.344,scroe
+Spain,6.329,6.361,6.403,scroe
+Malta,6.302,6.488,6.527,scroe
+Taiwan,6.298,6.379,6.422,scroe
+Kuwait,6.295,6.239,6.105,scroe
+Suriname,6.269,6.269,nan,scroe
+Trinidad and Tobago,6.168,6.168,6.168,scroe
+El Salvador,6.13,6.068,6.003,scroe
+Guatemala,6.123,6.324,6.454,scroe
+Uzbekistan,6.003,5.987,5.971,scroe
+Slovakia,5.995,6.078,6.098,scroe
+Japan,5.987,5.921,5.92,scroe
+South Korea,5.984,5.835,5.838,scroe
+Ecuador,5.975,5.976,6.008,scroe
+Bahrain,5.96,6.218,6.087,scroe
+Italy,5.948,5.977,5.964,scroe
+Bolivia,5.89,5.822,5.823,scroe
+Moldova,5.889,5.897,5.838,scroe
+Paraguay,5.878,5.538,5.493,scroe
+Kazakhstan,5.855,5.919,5.819,scroe
+Slovenia,5.848,5.768,5.758,scroe
+Lithuania,5.833,5.813,5.902,scroe
+Nicaragua,5.828,5.992,6.071,scroe
+Peru,5.824,5.743,5.715,scroe
+Belarus,5.813,5.802,5.569,scroe
+Poland,5.791,5.835,5.973,scroe
+Malaysia,5.77,6.005,6.084,scroe
+Croatia,5.759,5.488,5.293,scroe
+Libya,5.754,5.615,5.525,scroe
+Russia,5.716,5.856,5.963,scroe
+Jamaica,5.709,5.51,5.311,scroe
+North Cyprus,5.695,5.771,5.81,scroe
+Cyprus,5.689,5.546,5.621,scroe
+Algeria,5.605,6.355,5.872,scroe
+Kosovo,5.589,5.401,5.279,scroe
+Turkmenistan,5.548,5.658,5.822,scroe
+Mauritius,5.477,5.648,5.629,scroe
+Hong Kong,5.474,5.458,5.472,scroe
+Estonia,5.429,5.517,5.611,scroe
+Indonesia,5.399,5.314,5.262,scroe
+Vietnam,5.36,5.061,5.074,scroe
+Turkey,5.332,5.389,5.5,scroe
+Kyrgyzstan,5.286,5.185,5.004,scroe
+Nigeria,5.268,4.875,5.074,scroe
+Bhutan,5.253,5.196,5.011,scroe
+Azerbaijan,5.212,5.291,5.234,scroe
+Pakistan,5.194,5.132,5.269,scroe
+Jordan,5.192,5.303,5.336,scroe
+Montenegro,5.192,5.161,5.237,scroe
+China,5.14,5.245,5.273,scroe
+Zambia,5.129,4.795,4.514,scroe
+Romania,5.124,5.528,5.825,scroe
+Serbia,5.123,5.177,5.395,scroe
+Portugal,5.102,5.123,5.195,scroe
+Latvia,5.098,5.56,5.85,scroe
+Philippines,5.073,5.279,5.43,scroe
+Somaliland region,5.057,5.057,nan,scroe
+Morocco,5.013,5.151,5.235,scroe
+Macedonia,5.007,5.121,5.175,scroe
+Mozambique,4.971,nan,4.55,scroe
+Albania,4.959,4.655,4.644,scroe
+Bosnia and Herzegovina,4.949,5.163,5.182,scroe
+Lesotho,4.898,nan,3.808,scroe
+Dominican Republic,4.885,5.155,5.23,scroe
+Laos,4.876,4.876,nan,scroe
+Mongolia,4.874,4.907,4.955,scroe
+Swaziland,4.867,nan,nan,scroe
+Greece,4.857,5.033,5.227,scroe
+Lebanon,4.839,5.129,5.225,scroe
+Hungary,4.8,5.145,5.324,scroe
+Honduras,4.788,4.871,5.181,scroe
+Tajikistan,4.786,4.996,5.041,scroe
+Tunisia,4.739,5.045,4.805,scroe
+Palestinian Territories,4.715,4.754,4.775,scroe
+Bangladesh,4.694,4.643,4.608,scroe
+Iran,4.686,4.813,4.692,scroe
+Ukraine,4.681,4.324,4.096,scroe
+Iraq,4.677,4.575,4.497,scroe
+South Africa,4.642,4.459,4.829,scroe
+Ghana,4.633,4.276,4.12,scroe
+Zimbabwe,4.61,4.193,3.875,scroe
+Liberia,4.571,3.622,3.533,scroe
+India,4.565,4.404,4.315,scroe
+Sudan,4.55,4.139,4.139,scroe
+Haiti,4.518,4.028,3.603,scroe
+Congo (Kinshasa),4.517,4.272,4.28,scroe
+Nepal,4.514,4.793,4.962,scroe
+Ethiopia,4.512,4.508,4.46,scroe
+Sierra Leone,4.507,4.635,4.709,scroe
+Mauritania,4.436,4.201,4.292,scroe
+Kenya,4.419,4.356,4.553,scroe
+Djibouti,4.369,nan,nan,scroe
+Armenia,4.35,4.36,4.376,scroe
+Botswana,4.332,3.974,3.766,scroe
+Myanmar,4.307,4.395,4.545,scroe
+Georgia,4.297,4.252,4.286,scroe
+Malawi,4.292,4.156,3.97,scroe
+Sri Lanka,4.271,4.415,4.44,scroe
+Cameroon,4.252,4.513,4.695,scroe
+Bulgaria,4.218,4.217,4.714,scroe
+Egypt,4.194,4.362,4.735,scroe
+Yemen,4.077,3.724,3.593,scroe
+Angola,4.033,3.866,3.795,scroe
+Mali,3.995,4.073,4.19,scroe
+Congo (Brazzaville),3.989,4.236,4.291,scroe
+Comoros,3.956,3.956,nan,scroe
+Uganda,3.931,3.739,4.081,scroe
+Senegal,3.904,4.219,4.535,scroe
+Gabon,3.896,4.121,4.465,scroe
+Niger,3.845,3.856,4.028,scroe
+Cambodia,3.819,3.907,4.168,scroe
+Tanzania,3.781,3.666,3.349,scroe
+Madagascar,3.681,3.695,3.644,scroe
+Central African Republic,3.678,nan,2.693,scroe
+Chad,3.667,3.763,3.936,scroe
+Guinea,3.656,3.607,3.507,scroe
+Ivory Coast,3.655,3.916,4.18,scroe
+Burkina Faso,3.587,3.739,4.032,scroe
+Afghanistan,3.575,3.36,3.794,scroe
+Rwanda,3.465,3.515,3.471,scroe
+Benin,3.34,3.484,3.657,scroe
+Syria,3.006,3.069,3.462,scroe
+Burundi,2.905,2.905,2.905,scroe
+Togo,2.839,3.303,3.495,scroe
+Belize,nan,5.956,5.956,scroe
+Namibia,nan,4.574,4.574,scroe
+Puerto Rico,nan,7.039,nan,scroe
+Somalia,nan,5.44,5.151,scroe
+South Sudan,nan,3.832,3.591,scroe
+Switzerland,1,2,4,rank
+Iceland,2,3,3,rank
+Denmark,3,1,2,rank
+Norway,4,4,1,rank
+Canada,5,6,7,rank
+Finland,6,5,5,rank
+Netherlands,7,7,6,rank
+Sweden,8,10,9,rank
+New Zealand,9,8,8,rank
+Australia,10,9,9,rank
+Israel,11,11,11,rank
+Costa Rica,12,14,12,rank
+Austria,13,12,13,rank
+Mexico,14,21,25,rank
+United States,15,13,14,rank
+Brazil,16,17,22,rank
+Luxembourg,17,20,18,rank
+Ireland,18,19,15,rank
+Belgium,19,18,17,rank
+United Arab Emirates,20,28,21,rank
+United Kingdom,21,23,19,rank
+Oman,22,nan,nan,rank
+Venezuela,23,44,82,rank
+Singapore,24,22,26,rank
+Panama,25,25,30,rank
+Germany,26,16,16,rank
+Chile,27,24,20,rank
+Qatar,28,36,35,rank
+France,29,32,31,rank
+Argentina,30,26,24,rank
+Czech Republic,31,27,23,rank
+Uruguay,32,29,28,rank
+Colombia,33,31,36,rank
+Thailand,34,33,32,rank
+Saudi Arabia,35,34,37,rank
+Spain,36,37,34,rank
+Malta,37,30,27,rank
+Taiwan,38,34,33,rank
+Kuwait,39,41,39,rank
+Suriname,40,40,nan,rank
+Trinidad and Tobago,41,43,38,rank
+El Salvador,42,46,45,rank
+Guatemala,43,39,28,rank
+Uzbekistan,44,49,47,rank
+Slovakia,45,45,40,rank
+Japan,46,53,51,rank
+South Korea,47,57,55,rank
+Ecuador,48,51,44,rank
+Bahrain,49,42,41,rank
+Italy,50,50,48,rank
+Bolivia,51,59,58,rank
+Moldova,52,55,55,rank
+Paraguay,53,70,70,rank
+Kazakhstan,54,54,60,rank
+Slovenia,55,63,62,rank
+Lithuania,56,60,52,rank
+Nicaragua,57,48,43,rank
+Peru,58,64,63,rank
+Belarus,59,61,67,rank
+Poland,60,57,46,rank
+Malaysia,61,47,42,rank
+Croatia,62,74,77,rank
+Libya,63,67,68,rank
+Russia,64,56,49,rank
+Jamaica,65,73,76,rank
+North Cyprus,66,62,61,rank
+Cyprus,67,69,65,rank
+Algeria,68,38,53,rank
+Kosovo,69,77,78,rank
+Turkmenistan,70,65,59,rank
+Mauritius,71,66,64,rank
+Hong Kong,72,75,71,rank
+Estonia,73,72,66,rank
+Indonesia,74,79,81,rank
+Vietnam,75,96,94,rank
+Turkey,76,78,69,rank
+Kyrgyzstan,77,85,98,rank
+Nigeria,78,103,94,rank
+Bhutan,79,84,97,rank
+Azerbaijan,80,81,85,rank
+Pakistan,81,92,80,rank
+Jordan,82,80,74,rank
+Montenegro,82,88,83,rank
+China,84,83,79,rank
+Zambia,85,106,116,rank
+Romania,86,71,57,rank
+Serbia,87,86,73,rank
+Portugal,88,94,89,rank
+Latvia,89,68,54,rank
+Philippines,90,82,72,rank
+Somaliland region,91,97,nan,rank
+Morocco,92,90,84,rank
+Macedonia,93,95,92,rank
+Mozambique,94,nan,113,rank
+Albania,95,109,109,rank
+Bosnia and Herzegovina,96,87,90,rank
+Lesotho,97,nan,139,rank
+Dominican Republic,98,89,86,rank
+Laos,99,102,nan,rank
+Mongolia,100,101,100,rank
+Swaziland,101,nan,nan,rank
+Greece,102,99,87,rank
+Lebanon,103,93,88,rank
+Hungary,104,91,75,rank
+Honduras,105,104,91,rank
+Tajikistan,106,100,96,rank
+Tunisia,107,98,102,rank
+Palestinian Territories,108,108,103,rank
+Bangladesh,109,110,110,rank
+Iran,110,105,108,rank
+Ukraine,111,123,132,rank
+Iraq,112,112,117,rank
+South Africa,113,116,101,rank
+Ghana,114,124,131,rank
+Zimbabwe,115,131,138,rank
+Liberia,116,150,148,rank
+India,117,118,122,rank
+Sudan,118,133,130,rank
+Haiti,119,136,145,rank
+Congo (Kinshasa),120,125,126,rank
+Nepal,121,107,99,rank
+Ethiopia,122,115,119,rank
+Sierra Leone,123,111,106,rank
+Mauritania,124,130,123,rank
+Kenya,125,122,112,rank
+Djibouti,126,nan,nan,rank
+Armenia,127,121,121,rank
+Botswana,128,137,142,rank
+Myanmar,129,119,114,rank
+Georgia,130,126,125,rank
+Malawi,131,132,136,rank
+Sri Lanka,132,117,120,rank
+Cameroon,133,114,107,rank
+Bulgaria,134,129,105,rank
+Egypt,135,120,104,rank
+Yemen,136,147,146,rank
+Angola,137,141,140,rank
+Mali,138,135,127,rank
+Congo (Brazzaville),139,127,124,rank
+Comoros,140,138,nan,rank
+Uganda,141,145,133,rank
+Senegal,142,128,115,rank
+Gabon,143,134,118,rank
+Niger,144,142,135,rank
+Cambodia,145,140,129,rank
+Tanzania,146,149,153,rank
+Madagascar,147,148,144,rank
+Central African Republic,148,nan,155,rank
+Chad,149,144,137,rank
+Guinea,150,151,149,rank
+Ivory Coast,151,139,128,rank
+Burkina Faso,152,145,134,rank
+Afghanistan,153,154,141,rank
+Rwanda,154,152,151,rank
+Benin,155,153,143,rank
+Syria,156,156,152,rank
+Burundi,157,157,154,rank
+Togo,158,155,150,rank
+Belize,nan,52,50,rank
+Namibia,nan,113,111,rank
+Puerto Rico,nan,15,nan,rank
+Somalia,nan,76,93,rank
+South Sudan,nan,143,147,rank

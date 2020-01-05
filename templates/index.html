@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block title %}幸福感{% endblock %}
+
+{% block page_content %}
+    <form method="POST" action="/score and rank">
+    <select name="the_region_selected">
+        {% for item in the_select_region %}
+            <option value="{{ item }}">{{ item }}</option>
+        {% endfor %}
+    </select>
+<p><input value='Do it!' type='SUBMIT'></p>
+</form>
+
+    <table class="table table-bordered">
+    <tr>
+        <th>country</th>
+        <th>2015</th>
+        <th>2016</th>
+        <th>2017</th>
+        <th>contribute</th>
+
+    </tr>
+        {% for i in u %}
+            <tr>
+                <td>{{ i[0] }}</td>
+                <td>{{ i[1] }}</td>
+                <td>{{ i[2] }}</td>
+                <td>{{ i[3] }}</td>
+                <td>{{ i[4] }}</td>
+
+            </tr>
+    {% endfor %}
+    </table>
+
+{% endblock %}
